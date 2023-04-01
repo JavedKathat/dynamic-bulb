@@ -1,0 +1,25 @@
+.bulblight {
+    background-color: yellow;
+    border-radius: 50% 50% 2px 2px;
+    border: 1px solid rgb(164, 164, 164);
+    height: 44px;
+    width : 44px;
+    margin-bottom: 0;
+}
+
+.bulb-light-off {
+    /* background-color: rgb(225, 225, 225); */
+    border-radius: 50% 50% 2px 2px;
+    border: 1px solid rgb(164, 164, 164);
+    height: 44px;
+    width : 44px;
+    margin-bottom: 0;
+}
+
+.bulb-light-holder{
+    border: 2px solid rgb(123, 123, 123);
+    width: 30px;
+    height: 20px;
+    margin-top: 0px;
+    margin-left: 7px;
+}
